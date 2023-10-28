@@ -19,13 +19,13 @@ This repository contains my solutions to LeetCode problems using JavaScript. Eac
 Feel free to explore the code and use it as a resource for your coding practice.
 
 ## Problems
-- [Click here](/Problems/Problems.md) for Problems
+- [Click here](/Problems/) for Problems
 
 ## Solutions
-- [Click here](/Problems/Solutions.md) for Solutions
+- [Click here](/Problems/) for Solutions
 
 ## Explanations
-- [Click here](/Problems/Explanations.md) for Explanations
+- [Click here](/Problems/) for Explanations
 
 ## Contribute
 
