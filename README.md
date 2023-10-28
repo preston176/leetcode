@@ -7,6 +7,9 @@ Welcome to my LeetCode solutions repository! Here, you'll find solutions to vari
 - [LeetCode Solutions](#leetcode-solutions)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
+  - [Problems](#problems)
+  - [Solutions](#solutions)
+  - [Explanations](#explanations)
   - [Contribute](#contribute)
 
 ## Introduction
@@ -14,6 +17,15 @@ Welcome to my LeetCode solutions repository! Here, you'll find solutions to vari
 This repository contains my solutions to LeetCode problems using JavaScript. Each problem solution is accompanied by an explanation to help you understand the logic behind it.
 
 Feel free to explore the code and use it as a resource for your coding practice.
+
+## Problems
+- [Click here](/Problems/Problems.md) for Problems
+
+## Solutions
+- [Click here](/Problems/Solutions.md) for Solutions
+
+## Explanations
+- [Click here](/Problems/Explanations.md) for Explanations
 
 ## Contribute
 
