@@ -1,10 +1,10 @@
-# LeetCode Solutions
+# LeetCode Problems || Explanations || and Solutions
 
 Welcome to my LeetCode solutions repository! Here, you'll find solutions to various LeetCode problems along with explanations. I've organized the solutions into a `solutions` subfolder for easy navigation.
 
 ## Table of Contents
 
-- [LeetCode Solutions](#leetcode-solutions)
+- [LeetCode Problems || Explanations || and Solutions](#leetcode-problems--explanations--and-solutions)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Problems](#problems)
