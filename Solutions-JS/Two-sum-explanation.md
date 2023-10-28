@@ -1,4 +1,6 @@
 ## Two-sum-explanation
+[Back to Explanations](./Explanations.md)
+
 
 1. The function twoSum takes an array of integers (nums) and an integer (target) as parameters.
 
@@ -13,3 +15,7 @@
 6. If the loop completes without finding a solution, the function returns an empty array.
 
 7. The example usage demonstrates how to use the function with a sample array and target, and it prints the result to the console.
+
+[Back to top ⬆️⬆️](#)
+
+[Back to Explanations](./Explanations.md)
