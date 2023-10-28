@@ -2,6 +2,7 @@
 
 ### [Link](https://leetcode.com/problems/add-two-numbers/)
 
+### Category: ```Medium```
 
 ![Diagram](image.png)
 
