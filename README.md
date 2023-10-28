@@ -25,7 +25,7 @@ Feel free to explore the code and use it as a resource for your coding practice.
 - [Click here](/Solutions-JS/Solutions.md) for Solutions
 
 ## Explanations
-- [Click here](/Solutions/Explanations.md) for Explanations
+- [Click here](/Solutions-JS/Explanations.md) for Explanations
 
 ## Contribute
 
