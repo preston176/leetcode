@@ -22,7 +22,7 @@ This document contains solutions to various LeetCode problems, along with explan
 ### Solution
 
 - [Two Sum solution](./Two-sum-soln.js)
-- [Two Sum solution](./Add-Two-Numbers-soln.js)
+- [Add Two Numbers](./Add-Two-Numbers-soln.js)
 
 
 [Go Back to Home](../README.md)
