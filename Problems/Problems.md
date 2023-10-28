@@ -11,4 +11,6 @@ This document contains problem descriptions for various LeetCode challenges.
 
 
 [Go Back to Home](../README.md) <Br/>
+<Hr>
+
 [Back to top ⬆️](#)
