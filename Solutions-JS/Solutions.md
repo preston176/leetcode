@@ -16,6 +16,7 @@ This document contains solutions to various LeetCode problems, along with explan
 
 - [Two Sum](../Problems/two-sum.md)
 - [Add Two Numbers](../Problems/Add-Two-Numbers.md)
+- [Palindrome Number](../Problems/Palindrome-Number.md)
 
 [Go Back to Home](../README.md)
 
@@ -23,7 +24,7 @@ This document contains solutions to various LeetCode problems, along with explan
 
 - [Two Sum solution](./Two-sum-soln.js)
 - [Add Two Numbers](./Add-Two-Numbers-soln.js)
-
+- [Palindrome Number](../Problems/Palindrome-Number.md)
 
 [Go Back to Home](../README.md)
 
