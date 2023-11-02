@@ -29,7 +29,8 @@ Feel free to explore the code and use it as a resource for your coding practice.
 
 ## Contribute
 
-If you'd like to contribute your own solutions or improvements, please fork the repository and submit a pull request. Your contributions are highly appreciated!
+- If you'd like to contribute your own solutions or improvements, please fork the repository and submit a pull request. Your contributions are highly appreciated!
+- Star this repo if you find it useful 🤩🤩
 
 Happy coding!<Br />
 [Back to top ⬆️](#leetcode-problems--explanations--and-solutions)
